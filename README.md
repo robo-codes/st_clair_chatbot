@@ -18,3 +18,6 @@ The following `bitsandbytes` quantization config was used during training:
 
 
 - PEFT 0.4.0
+
+
+Link to model: https://huggingface.co/Lustyrobo/llama-2-7b-robo
